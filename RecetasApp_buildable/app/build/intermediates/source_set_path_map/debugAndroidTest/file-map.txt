@@ -1,0 +1,4 @@
+com.example.recetasapp.test.app-androidTest-0 /Users/omargonzalez/Downloads/RecetasApp_buildable/app/build/generated/res/resValues/androidTest/debug
+com.example.recetasapp.test.app-mergeDebugAndroidTestResources-1 /Users/omargonzalez/Downloads/RecetasApp_buildable/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.recetasapp.test.app-mergeDebugAndroidTestResources-2 /Users/omargonzalez/Downloads/RecetasApp_buildable/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.recetasapp.test.app-merged_res-3 /Users/omargonzalez/Downloads/RecetasApp_buildable/app/build/intermediates/merged_res/debugAndroidTest

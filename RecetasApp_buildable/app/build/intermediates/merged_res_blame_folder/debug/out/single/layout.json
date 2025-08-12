@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/omargonzalez/.gradle/daemon/8.5/com.example.recetasapp-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "/Users/omargonzalez/.gradle/daemon/8.5/com.example.recetasapp-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.recetasapp-mergeDebugResources-31:/layout/activity_detalle_receta.xml",
+        "source": "com.example.recetasapp-main-34:/layout/activity_detalle_receta.xml"
+    },
+    {
+        "merged": "/Users/omargonzalez/.gradle/daemon/8.5/com.example.recetasapp-mergeDebugResources-31:/layout/item_receta.xml",
+        "source": "/Users/omargonzalez/.gradle/daemon/8.5/com.example.recetasapp-main-34:/layout/item_receta.xml"
+    },
+    {
+        "merged": "/Users/omargonzalez/.gradle/daemon/8.5/com.example.recetasapp-mergeDebugResources-31:/layout/activity_detalle_receta.xml",
+        "source": "/Users/omargonzalez/.gradle/daemon/8.5/com.example.recetasapp-main-34:/layout/activity_detalle_receta.xml"
+    }
+]
