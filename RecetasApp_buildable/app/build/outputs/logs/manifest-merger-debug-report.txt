@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml:1:1-20:12
-INJECTED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml:1:1-20:12
-INJECTED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml:1:1-20:12
-INJECTED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml:1:1-20:12
+ADDED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml:1:1-20:12
 MERGED from [androidx.databinding:viewbinding:8.0.2] /Users/omargonzalez/.gradle/caches/transforms-3/c67078859f8c92e996a86d080a541bbf/transformed/viewbinding-8.0.2/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.12.0] /Users/omargonzalez/.gradle/caches/transforms-3/ba6e941d74cf5feb35bbce01f29c418c/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/omargonzalez/.gradle/caches/transforms-3/16e883cd6f46fbe59bf5bfaa921c9cbd/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
@@ -47,25 +47,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/omargonzalez/.grad
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/omargonzalez/.gradle/caches/transforms-3/80319dba815d53faa78e35e7224e6bbb/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/omargonzalez/.gradle/caches/transforms-3/32dd6520ca0a26968c50fe83825250a6/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/omargonzalez/.gradle/caches/transforms-3/bb062f7f54cc7c52ffa59c2265bdb08e/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
-INJECTED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml:1:1-20:12
-INJECTED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml:1:1-20:12
-INJECTED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml:1:1-20:12
 	package
-		INJECTED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml
-		ADDED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml:1:1-20:12
-		INJECTED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml
+		ADDED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml:1:1-20:12
+		INJECTED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml
-		ADDED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml:1:1-20:12
-		INJECTED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml
+		ADDED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml:1:1-20:12
+		INJECTED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml
-		ADDED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml:1:1-20:12
-		INJECTED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml
+		ADDED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml:1:1-20:12
+		INJECTED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml:1:11-69
 application
-ADDED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml:3:5-18:19
+ADDED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml:3:5-18:19
 MERGED from [com.google.android.material:material:1.12.0] /Users/omargonzalez/.gradle/caches/transforms-3/ba6e941d74cf5feb35bbce01f29c418c/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] /Users/omargonzalez/.gradle/caches/transforms-3/ba6e941d74cf5feb35bbce01f29c418c/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/omargonzalez/.gradle/caches/transforms-3/16e883cd6f46fbe59bf5bfaa921c9cbd/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
@@ -85,41 +85,41 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/omargonzalez/.gradle
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.1] /Users/omargonzalez/.gradle/caches/transforms-3/a4858335aec6c24c4795a477af46107e/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml:8:9-35
+		ADDED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml:8:9-35
 	android:label
-		ADDED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml:6:9-41
+		ADDED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml:6:9-41
 	android:roundIcon
-		ADDED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml:7:9-54
+		ADDED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml:7:9-54
 	android:icon
-		ADDED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml:5:9-43
+		ADDED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml:5:9-43
 	android:allowBackup
-		ADDED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml:4:9-35
+		ADDED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml:4:9-35
 	android:theme
-		ADDED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml:9:9-48
+		ADDED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml:9:9-48
 activity#com.example.recetasapp.DetalleRecetaActivity
-ADDED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml:10:9-59
+ADDED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml:10:9-59
 	android:name
-		ADDED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml:10:19-56
+		ADDED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml:10:19-56
 activity#com.example.recetasapp.MainActivity
-ADDED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml:11:9-17:20
+ADDED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml:11:9-17:20
 	android:exported
-		ADDED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml:12:13-36
+		ADDED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml:12:13-36
 	android:name
-		ADDED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml:11:19-47
+		ADDED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml:11:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml:13:13-16:29
+ADDED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml:13:13-16:29
 action#android.intent.action.MAIN
-ADDED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml:15:17-77
+ADDED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml:15:17-77
 	android:name
-		ADDED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml:15:27-74
+		ADDED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml:15:27-74
 uses-sdk
-INJECTED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml
-INJECTED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml
+INJECTED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml
+INJECTED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:8.0.2] /Users/omargonzalez/.gradle/caches/transforms-3/c67078859f8c92e996a86d080a541bbf/transformed/viewbinding-8.0.2/AndroidManifest.xml:5:5-44
 MERGED from [androidx.databinding:viewbinding:8.0.2] /Users/omargonzalez/.gradle/caches/transforms-3/c67078859f8c92e996a86d080a541bbf/transformed/viewbinding-8.0.2/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.material:material:1.12.0] /Users/omargonzalez/.gradle/caches/transforms-3/ba6e941d74cf5feb35bbce01f29c418c/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
@@ -206,16 +206,16 @@ MERGED from [androidx.print:print:1.0.0] /Users/omargonzalez/.gradle/caches/tran
 MERGED from [androidx.print:print:1.0.0] /Users/omargonzalez/.gradle/caches/transforms-3/32dd6520ca0a26968c50fe83825250a6/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/omargonzalez/.gradle/caches/transforms-3/bb062f7f54cc7c52ffa59c2265bdb08e/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/omargonzalez/.gradle/caches/transforms-3/bb062f7f54cc7c52ffa59c2265bdb08e/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
-INJECTED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml
-INJECTED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml
+INJECTED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml
+INJECTED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml
-		ADDED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml
+		ADDED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml
-		ADDED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml
+		ADDED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/omargonzalez/.gradle/caches/transforms-3/38e35961ac1162256033d5dccb2ad702/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/omargonzalez/.gradle/caches/transforms-3/0e0c2c6e7ea76591bb23a12d02c3314f/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20

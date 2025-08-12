@@ -26,10 +26,10 @@ com.example.recetasapp-customview-poolingcontainer-1.0.0-24 /Users/omargonzalez/
 com.example.recetasapp-core-ktx-1.13.1-25 /Users/omargonzalez/.gradle/caches/transforms-3/e29512607cc4bb6dd41ef5d9206c5f2d/transformed/core-ktx-1.13.1/res
 com.example.recetasapp-viewpager2-1.1.0-beta02-26 /Users/omargonzalez/.gradle/caches/transforms-3/e5ddd4e03dd39efaf37d9e79997fc365/transformed/viewpager2-1.1.0-beta02/res
 com.example.recetasapp-cardview-1.0.0-27 /Users/omargonzalez/.gradle/caches/transforms-3/f18f0ceef819123aeccbd4ce4dfe2ab2/transformed/cardview-1.0.0/res
-com.example.recetasapp-pngs-28 /Users/omargonzalez/Downloads/RecetasApp_buildable/app/build/generated/res/pngs/debug
-com.example.recetasapp-resValues-29 /Users/omargonzalez/Downloads/RecetasApp_buildable/app/build/generated/res/resValues/debug
-com.example.recetasapp-packageDebugResources-30 /Users/omargonzalez/Downloads/RecetasApp_buildable/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.example.recetasapp-packageDebugResources-31 /Users/omargonzalez/Downloads/RecetasApp_buildable/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.example.recetasapp-merged_res-32 /Users/omargonzalez/Downloads/RecetasApp_buildable/app/build/intermediates/merged_res/debug
-com.example.recetasapp-debug-33 /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/debug/res
-com.example.recetasapp-main-34 /Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/res
+com.example.recetasapp-pngs-28 /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/build/generated/res/pngs/debug
+com.example.recetasapp-resValues-29 /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/build/generated/res/resValues/debug
+com.example.recetasapp-packageDebugResources-30 /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.recetasapp-packageDebugResources-31 /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.recetasapp-merged_res-32 /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/build/intermediates/merged_res/debug
+com.example.recetasapp-debug-33 /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/debug/res
+com.example.recetasapp-main-34 /Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/res

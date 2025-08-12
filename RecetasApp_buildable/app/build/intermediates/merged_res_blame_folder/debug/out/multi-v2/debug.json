@@ -256,6 +256,25 @@
                     }
                 },
                 {
+                    "source": "/Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "11,1",
+                        "startColumns": "4,4",
+                        "startOffsets": "707,63",
+                        "endLines": "20,9",
+                        "endColumns": "12,12",
+                        "endOffsets": "1206,701"
+                    },
+                    "to": {
+                        "startLines": "6006,6559",
+                        "startColumns": "4,4",
+                        "startOffsets": "420878,460168",
+                        "endLines": "6015,6567",
+                        "endColumns": "12,12",
+                        "endOffsets": "421377,460804"
+                    }
+                },
+                {
                     "source": "/Users/omargonzalez/.gradle/caches/transforms-3/d711c33552da5b157b81a9f062ab38db/transformed/customview-poolingcontainer-1.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3",
@@ -328,23 +347,6 @@
                     }
                 },
                 {
-                    "source": "/Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/res/values/colors.xml",
-                    "from": {
-                        "startLines": "2,9,6,4,8,5,11,12,7,3,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,341,219,135,301,174,421,462,263,95,380",
-                        "endColumns": "39,38,43,38,39,44,40,40,37,39,40",
-                        "endOffsets": "90,375,258,169,336,214,457,498,296,130,416"
-                    },
-                    "to": {
-                        "startLines": "641,642,657,701,702,705,945,954,955,968,969",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "32859,32899,33959,36972,37011,37186,55334,55963,56004,56860,56900",
-                        "endColumns": "39,38,43,38,39,44,40,40,37,39,40",
-                        "endOffsets": "32894,32933,33998,37006,37046,37226,55370,55999,56037,56895,56936"
-                    }
-                },
-                {
                     "source": "/Users/omargonzalez/.gradle/caches/transforms-3/afb555b0b4438968c8d3e11a125cf00f/transformed/appcompat-resources-1.6.1/res/values/values.xml",
                     "from": {
                         "startLines": "2,18,24,34,50",
@@ -400,7 +402,7 @@
                     }
                 },
                 {
-                    "source": "/Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/res/values/strings.xml",
+                    "source": "/Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -431,6 +433,23 @@
                         "startOffsets": "122292,124515",
                         "endColumns": "41,59",
                         "endOffsets": "122329,124570"
+                    }
+                },
+                {
+                    "source": "/Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "2,9,6,4,8,5,11,12,7,3,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,341,219,135,301,174,421,462,263,95,380",
+                        "endColumns": "39,38,43,38,39,44,40,40,37,39,40",
+                        "endOffsets": "90,375,258,169,336,214,457,498,296,130,416"
+                    },
+                    "to": {
+                        "startLines": "641,642,657,701,702,705,945,954,955,968,969",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "32859,32899,33959,36972,37011,37186,55334,55963,56004,56860,56900",
+                        "endColumns": "39,38,43,38,39,44,40,40,37,39,40",
+                        "endOffsets": "32894,32933,33998,37006,37046,37226,55370,55999,56037,56895,56936"
                     }
                 },
                 {
@@ -484,25 +503,6 @@
                         "endLines": "506,1114,1115,1116,1124,1125,1126,1819,12727",
                         "endColumns": "55,58,47,55,74,75,71,65,24",
                         "endOffsets": "25672,66547,66595,66651,67337,67413,67485,121096,770847"
-                    }
-                },
-                {
-                    "source": "/Users/omargonzalez/Downloads/RecetasApp_buildable/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "11,1",
-                        "startColumns": "4,4",
-                        "startOffsets": "707,63",
-                        "endLines": "20,9",
-                        "endColumns": "12,12",
-                        "endOffsets": "1206,701"
-                    },
-                    "to": {
-                        "startLines": "6006,6559",
-                        "startColumns": "4,4",
-                        "startOffsets": "420878,460168",
-                        "endLines": "6015,6567",
-                        "endColumns": "12,12",
-                        "endOffsets": "421377,460804"
                     }
                 },
                 {

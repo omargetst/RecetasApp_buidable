@@ -1,8 +1,8 @@
-#Wed Aug 06 11:04:42 CST 2025
-base.0=/Users/omargonzalez/Downloads/RecetasApp_buildable/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
-base.1=/Users/omargonzalez/Downloads/RecetasApp_buildable/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-base.2=/Users/omargonzalez/Downloads/RecetasApp_buildable/app/build/intermediates/dex/debug/mergeProjectDexDebug/2/classes.dex
-base.3=/Users/omargonzalez/Downloads/RecetasApp_buildable/app/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex
+#Tue Aug 12 12:32:47 CST 2025
+base.0=/Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/build/intermediates/dex/debug/mergeProjectDexDebug/2/classes.dex
+base.3=/Users/omargonzalez/Library/CloudStorage/OneDrive-Arkusnexus/Advanta/Proyectos/RecetasApp_buildable/app/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=2/classes.dex
